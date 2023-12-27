@@ -1,6 +1,6 @@
-Ver 2.0.2
+Ver 3.4.3
 	-Started to add support for translations.
-Ver 2.0.2
+Ver 3.4.3
 	-Re-worked the talent section, now populated by a function
 	-Changed the role section in the spellmenu to new icons
 
