@@ -1,6 +1,6 @@
 ## Title:-|cffFFFFFFConROCX|r- |cff9482C9Warlock|r
-## Version: 3.4.3
-## Author: Vae, 3.4.3 updated by Lith
+## Version: 3.4.0
+## Author: Vae, 3.4.0 updated by Lith
 ## Interface: 30403
 ## SavedVariablesPerCharacter: ConROCWarlockSpells
 ## Dependencies: ConROCX
